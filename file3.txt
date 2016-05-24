@@ -1,1 +1,3 @@
-Commiting changes to master
+<<<<<<< HEAD
+
+>>>>>>> branch1
